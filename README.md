@@ -2,7 +2,7 @@
 
 ## Overview
 
-** This is a small program that checks for successful login on a website using laravel dusk, selenium, laradock.**
+**This is a small program that checks for successful login on a website using laravel dusk, selenium, laradock.**
 
 ## Requirements
 - Install laradock, laravel framework, dusk.
